@@ -6,6 +6,7 @@
 2. Python的基础练习代码与各种爬虫代码 https://github.com/rieuse/learnPython
 3. Python爬虫学习手册 https://www.jianshu.com/p/047b4dd3f911?from=singlemessage
 4. Python系列 - 收藏集 - 掘金 https://www.jianshu.com/p/9554bcf6ba44
+5. 廖雪峰Python教程 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
 ## 爬虫项目
 ### Scrapy爬虫框架
 1. 官网 https://doc.scrapy.org/
