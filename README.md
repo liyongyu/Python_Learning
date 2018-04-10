@@ -12,7 +12,7 @@
 2. 中文文档 http://scrapy-chs.readthedocs.io/zh_CN/0.24/
 3. 入门 http://python.jobbole.com/81332/
 ### github练手小项目
-1.Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐批量下载 https://github.com/Jack-Cherish/python-spider
+1. Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐批量下载 https://github.com/Jack-Cherish/python-spider
 2. 豆瓣电影排名前100 https://github.com/Andrew-liu/dou_ban_spider
 #### 微博爬虫
 * 初级
